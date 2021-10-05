@@ -1,6 +1,6 @@
 #----------------------------------- https://github.com/m4mallu/clonebot --------------------------------------------#
 import os
-ok = "mm"
+
 from pyrogram import Client
 
 if os.environ.get("ENV", False):
